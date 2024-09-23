@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Series": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "3-body problem",
+			"Director": "David Benioff",
+			"Genre": "Science fiction",
+			"Year": "2024 - "
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "The Wheel of Time",
+			"Director": "Rafe Judkins",
+			"Genre": "Fantasy",
+			"Year": "2021 -"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Mr. Robot",
+			"Director": "Sam Esmail",
+			"Genre": "Psychologial Drama",
+			"Year": "2015-2019"
 		}
 	]
 }
